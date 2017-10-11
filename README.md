@@ -1,5 +1,3 @@
-[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
-
 ### Contents
 
 * [Algorithms](#algorithms)
