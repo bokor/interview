@@ -15,11 +15,8 @@
   * [Sites](#sites)
   * [Videos](#videos)
 * [Languages and technologies](#languages-and-technologies)
-  * [ASP.NET](#aspnet)
-  * [JavaScript](#javascript)
-  * [Node](#node)
+  * [Golang](#go)
   * [Python](#python)
-  * [React](#react)
 * [Other topics](#other-topics)
   * [Crypto](#crypto)
   * [Funny](#funny)
@@ -103,6 +100,7 @@
 
 ### Courses
 
+* Khan Academy: [Computer Science - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 * MIT – [Hacking a Google Interview](https://courses.csail.mit.edu/iap/interview/materials.php)
 * [Coderust 2.0 ($$)](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
@@ -163,42 +161,16 @@
 
 ## Languages and technologies
 
-### ASP.NET
-
-* Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
-* [Top 10 ASP.NET MVC Interview Questions](http://www.codeproject.com/Articles/653746/Top-ASP-NET-MVC-Interview-Questions)
-
-### C#
-
-* [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
-
 ### Go
 
 * [Go by Example](https://gobyexample.com/)
 * [Go Challenge](http://golang-challenge.org/)
-
-### JavaScript
-
-* [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
-* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-* [Superhero.js](http://superherojs.com/)
-* [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-
-### Node
-
-* [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
 
 ### Python
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
-
-### React
-
-* [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
-* [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
-* [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
 ## Other topics
 
