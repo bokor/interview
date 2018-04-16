@@ -1,0 +1,51 @@
+Employee ID,Email Address,Name,First Name,Last Name,Job Level,Job Title,Is Manager,Office Location,Start Date,Gender,Department,Manager Employee ID
+1,lila.collier@intervieworg.com,Lila P. Collier,Lila,Collier,2,Compliance Officer-‚Ö†‚Ö†,TRUE,Paris,3/30/14,female,Public Policy,1366
+2,vicente.sharp@intervieworg.com,Vicente P. Sharp,Vicente,Sharp,5,Senior Compliance Officer,FALSE,Paris,12/30/08,,Building Safety,296
+3,gavin.conner@intervieworg.com,Gavin I. Conner,Gavin,Conner,6,Industrial Architecture Manager-‚Ö§‚Ö†,TRUE,Paris,3/6/18,,Industrial Architecture,1601
+4,forrest.odom@intervieworg.com,Forrest J. Odom,Forrest,Odom,6,Staff Compliance Officer,FALSE,Paris,5/26/08,male,Building Safety,1995
+5,kara.everett@intervieworg.com,Kara I. Everett,Kara,Everett,6,Staff Account Manager,FALSE,Paris,7/12/11,female,Sales / Argentina,151
+6,osvaldo.bray@intervieworg.com,Osvaldo G. Bray,Osvaldo,Bray,1,Compliance Officer-‚Ö†,FALSE,Paris,12/8/16,,Building Safety,2808
+7,jaylah.stokes@intervieworg.com,Jaylah Z. Stokes,Jaylah,Stokes,6,Staff Account Manager,FALSE,Mountain View,7/31/14,female,Sales / Russia,3195
+8,jaycee.boone@intervieworg.com,Jaycee G. Boone,Jaycee,Boone,1,Residential Architecture Manager-‚Ö†,TRUE,Paris,10/5/16,,Residential Architecture,272
+9,emelia.holland@intervieworg.com,Emelia X. Holland,Emelia,Holland,5,Industrial Architecture Manager-‚Ö§,TRUE,Paris,10/11/12,,Industrial Architecture,3821
+10,yareli.rowe@intervieworg.com,Yareli W. Rowe,Yareli,Rowe,2,Compliance Officer-‚Ö†‚Ö†,TRUE,Paris,9/16/17,female,Public Policy,3688
+11,sawyer.merritt@intervieworg.com,Sawyer A. Merritt,Sawyer,Merritt,5,Senior Architect,FALSE,Paris,11/11/08,male,Residential Architecture,120
+12,dane.english@intervieworg.com,Dane Z. English,Dane,English,5,Senior Account Manager,FALSE,Paris,7/19/09,male,Sales / Lugash,2601
+13,nala.daniel@intervieworg.com,Nala H. Daniel,Nala,Daniel,2,Account Manager-‚Ö†‚Ö†,TRUE,Paris,9/25/14,,Sales / Argentina,2650
+14,phoebe.mack@intervieworg.com,Phoebe G. Mack,Phoebe,Mack,5,Senior Architect,FALSE,Paris,5/27/09,,Industrial Architecture,3913
+15,dalary.case@intervieworg.com,Dalary M. Case,Dalary,Case,2,Compliance Officer-‚Ö†‚Ö†,TRUE,Paris,7/9/14,female,Building Safety,1242
+16,analia.huff@intervieworg.com,Analia Y. Huff,Analia,Huff,6,Staff Architect,FALSE,Paris,10/6/17,,Residential Architecture,1315
+17,kiley.zuniga@intervieworg.com,Kiley V. Zuniga,Kiley,Zuniga,3,Sales / Belgium Manager-‚Ö†‚Ö†‚Ö†,TRUE,Paris,1/10/14,female,Sales / Belgium,290
+18,libby.robertson@intervieworg.com,Libby L. Robertson,Libby,Robertson,1,Sales / Mexico Manager-‚Ö†,TRUE,Paris,9/23/17,,Sales / Mexico,2124
+19,jessica.montes@intervieworg.com,Jessica M. Montes,Jessica,Montes,4,Compliance Officer-IV,FALSE,Paris,8/11/11,female,Public Policy,1617
+20,karla.miller@intervieworg.com,Karla Z. Miller,Karla,Miller,5,Senior Architect,FALSE,Paris,1/26/15,,Industrial Architecture,3406
+21,harvey.mckay@intervieworg.com,Harvey E. Mckay,Harvey,Mckay,1,Account Manager-‚Ö†,FALSE,Paris,4/21/16,male,Sales / Canada,2269
+22,bruce.holmes@intervieworg.com,Bruce U. Holmes,Bruce,Holmes,1,Architect-‚Ö†,FALSE,Paris,1/12/18,male,Residential Architecture,1703
+23,archer.humphrey@intervieworg.com,Archer S. Humphrey,Archer,Humphrey,5,Sales / Saudi Arabia Manager-‚Ö§,TRUE,Paris,1/12/18,,Sales / Saudi Arabia,2976
+24,kenna.french@intervieworg.com,Kenna P. French,Kenna,French,5,Senior Account Manager,FALSE,Paris,1/16/10,female,Sales / India,7.06E+02
+25,jimmy.flowers@intervieworg.com,Jimmy P. Flowers,Jimmy,Flowers,4,Account Manager-IV,FALSE,Paris,5/18/11,male,Sales / Libya,191
+26,lyric.thompson@intervieworg.com,Lyric E. Thompson,Lyric,Thompson,7,Residential Architecture Manager-‚Ö§‚Ö†‚Ö†,TRUE,Paris,6/19/06,,Residential Architecture,3402
+27,camila.khan@intervieworg.com,Camila F. Khan,Camila,Khan,6,Commercial Architecture Manager-‚Ö§‚Ö†,TRUE,Paris,2/12/14,female,Commercial Architecture,482
+28,ellie.zuniga@intervieworg.com,Ellie Q. Zuniga,Ellie,Zuniga,3,Industrial Architecture Manager-‚Ö†‚Ö†‚Ö†,TRUE,New York,5/30/13,,Industrial Architecture,3842
+29,lachlan.schaefer@intervieworg.com,Lachlan L. Schaefer,Lachlan,Schaefer,2,Sales / Saudi Arabia Manager-‚Ö†‚Ö†,TRUE,Paris,2/7/17,male,Sales / Saudi Arabia,3629
+30,casen.murphy@intervieworg.com,Casen M. Murphy,Casen,Murphy,2,Industrial Architecture Manager-‚Ö†‚Ö†,TRUE,Paris,7/14/15,male,Industrial Architecture,3799
+31,tenley.summers@intervieworg.com,Tenley V. Summers,Tenley,Summers,5,Senior Architect,FALSE,Paris,4/15/17,female,Commercial Architecture,3432
+32,killian.martinez@intervieworg.com,Killian E. Martinez,Killian,Martinez,2,Compliance Officer-‚Ö†‚Ö†,FALSE,Paris,12/5/14,male,Building Safety,15
+33,beckett.gould@intervieworg.com,Beckett G. Gould,Beckett,Gould,2,Sales / Canada Manager-‚Ö†‚Ö†,TRUE,Paris,11/13/16,male,Sales / Canada,3420
+34,cali.hebert@intervieworg.com,Cali F. Hebert,Cali,Hebert,1,Architect-‚Ö†,TRUE,Paris,9/25/16,female,Residential Architecture,2865
+35,ayleen.payne@intervieworg.com,Ayleen T. Payne,Ayleen,Payne,5,Senior Architect,FALSE,Paris,3/10/10,female,Residential Architecture,36
+36,sean.smith@intervieworg.com,Sean P. Smith,Sean,Smith,6,Residential Architecture Manager-‚Ö§‚Ö†,TRUE,Paris,8/4/15,male,Residential Architecture,3948
+37,clara.bishop@intervieworg.com,Clara W. Bishop,Clara,Bishop,4,Account Manager-IV,FALSE,Paris,2011-08-25,female,Sales / Libya,1706
+38,zayne.farley@intervieworg.com,Zayne G. Farley,Zayne,Farley,5,Senior Account Manager,FALSE,Paris,10/25/13,male,Sales / Lugash,3183
+39,dallas.contreras@intervieworg.com,Dallas B. Contreras,Dallas,Contreras,5,Sales / Libya Manager-‚Ö§,TRUE,Paris,6/13/10,,Sales / Libya,3961
+40,juelz.pierce@intervieworg.com,Juelz G. Pierce,Juelz,Pierce,1,Public Policy Manager-‚Ö†,TRUE,Paris,1/13/18,,Public Policy,222
+41,salma.velazquez@intervieworg.com,Salma J. Velazquez,Salma,Velazquez,5,Senior Account Manager,FALSE,Paris,8/13/14,,Sales / US,2223
+42,donald.aguilar@intervieworg.com,Donald O. Aguilar,Donald,Aguilar,6,Staff Architect,FALSE,New York,9/18/17,male,Industrial Architecture,1615
+43,natalie.trujillo@intervieworg.com,Natalie C. Trujillo,Natalie,Trujillo,6,Staff Compliance Officer,FALSE,Paris,2017-08-20,female,Building Safety,3904
+44,christine.pham@intervieworg.com,Christine P. Pham,Christine,Pham,3,Commercial Architecture Manager-‚Ö†‚Ö†‚Ö†,TRUE,Paris,3/29/17,,Commercial Architecture,340
+45,audrey.mooney@intervieworg.com,Audrey L. Mooney,Audrey,Mooney,3,Sales / Elbonia Manager-‚Ö†‚Ö†‚Ö†,TRUE,Paris,12/7/12,female,Sales / Elbonia,162
+46,amare.nunez@intervieworg.com,Amare A. Nunez,Amare,Nunez,6,Staff Compliance Officer,FALSE,Paris,3/28/08,male,Public Policy,3.91E+03
+47,dylan.barrera@intervieworg.com,Dylan W. Barrera,Dylan,Barrera,2,Compliance Officer-‚Ö†‚Ö†,FALSE,Paris,7/7/15,male,Public Policy,10
+48,gemma.tanner@intervieworg.com,Gemma Z. Tanner,Gemma,Tanner,4,Commercial Architecture Manager-IV,TRUE,Paris,9/25/16,female,Commercial Architecture,834
+49,oscar.stuart@intervieworg.com,Oscar T. Stuart,Oscar,Stuart,3,Architect-‚Ö†‚Ö†‚Ö†,FALSE,New York,7/1/13,male,Industrial Architecture,1603
+50,silas.butler@intervieworg.com,Silas S. Butler,Silas,Butler,5,Senior Account Manager,FALSE,Paris,2/17/18,male,Sales / US,2223
